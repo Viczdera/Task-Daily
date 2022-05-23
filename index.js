@@ -79,7 +79,7 @@ function showToDo() {
       ")'><i class='fa-solid fa-trash'></i></span>";
 
     //appending conts to footer
-    taskFooter.appendChild(taskCheckCont);
+   // taskFooter.appendChild(taskCheckCont);
     taskFooter.appendChild(taskActions);
 
     //appending buttons to actions

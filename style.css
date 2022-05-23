@@ -312,7 +312,9 @@ border-radius: 5px;
   background-color: var(--red)
 }
 .taskActions{
-
+display: flex;
+justify-content: space-between;
+width: 100%;
 }
 .deleteTaskBtn {
   color: var(--red);
